@@ -1,6 +1,6 @@
-# Palindrome
-
-
+### EX NO : 02
+### DATE  : 06.04.2022
+# <p align="center">Palindrome</p>
 ## Aim:
 To write a C# program to find whether the given string is a Palindrome or not.
 ## Algorithm:
@@ -21,6 +21,7 @@ print palindrome if it's equal else print not a palindrome.
 
 ### Step6:
 stop
+<br/><br/><br/><br/><br/><br/>
 
 ## Program:
 ```
@@ -52,7 +53,7 @@ namespace palindrome
 }
 ```
 ## Output:
-![Ex02](https://user-images.githubusercontent.com/75235747/163860903-d1b8b0d1-84cf-4d34-b877-e38a98fa133e.PNG)
+![image](https://user-images.githubusercontent.com/75235747/175766241-bfdf75b0-0dd7-456f-8e6c-a9011a1caf06.png)
 
 
 ## Result:
